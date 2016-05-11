@@ -258,7 +258,7 @@
 				<Property Name="Channels" Type="Str">DynP_all_S6AI0-4/Ambient, DynP_all_S6AI0-4/Position 1, DynP_all_S6AI0-4/Position 2, DynP_all_S6AI0-4/Position 3, DynP_all_S6AI0-4/Position 4</Property>
 				<Property Name="Name" Type="Str">DynP_all_S6AI0-4</Property>
 				<Property Name="SampClk.ActiveEdge" Type="Str">Rising</Property>
-				<Property Name="SampClk.Rate" Type="Str">5000</Property>
+				<Property Name="SampClk.Rate" Type="Str">10000</Property>
 				<Property Name="SampClk.Src" Type="Str"></Property>
 				<Property Name="SampQuant.SampMode" Type="Str">Continuous Samples</Property>
 				<Property Name="SampQuant.SampPerChan" Type="Str">2000</Property>
