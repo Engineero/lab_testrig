@@ -508,6 +508,7 @@
 			<Item Name="Test Sound Measurement.vi" Type="VI" URL="../Tests/Test Sound Measurement.vi"/>
 			<Item Name="Test Z Axis Motor.vi" Type="VI" URL="../Tests/Test Z Axis Motor.vi"/>
 		</Item>
+		<Item Name="Dynamic MFC Test.vi" Type="VI" URL="../Tests/Dynamic MFC Test.vi"/>
 		<Item Name="OOP_test_main.vi" Type="VI" URL="../OOP_test_main.vi"/>
 		<Item Name="SVM_op_range_exp.vi" Type="VI" URL="../SVM_op_range_exp.vi"/>
 		<Item Name="test_rig_main.vi" Type="VI" URL="../test_rig_main.vi"/>
@@ -813,6 +814,7 @@
 				<Item Name="NI_AALPro.lvlib" Type="Library" URL="/&lt;vilib&gt;/Analysis/NI_AALPro.lvlib"/>
 				<Item Name="NI_Database_API.lvlib" Type="Library" URL="/&lt;vilib&gt;/addons/database/NI_Database_API.lvlib"/>
 				<Item Name="NI_FileType.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/lvfile.llb/NI_FileType.lvlib"/>
+				<Item Name="NI_Gmath.lvlib" Type="Library" URL="/&lt;vilib&gt;/gmath/NI_Gmath.lvlib"/>
 				<Item Name="NI_MABase.lvlib" Type="Library" URL="/&lt;vilib&gt;/measure/NI_MABase.lvlib"/>
 				<Item Name="NI_MAPro.lvlib" Type="Library" URL="/&lt;vilib&gt;/measure/NI_MAPro.lvlib"/>
 				<Item Name="NI_PID__prctrl compat.lvlib" Type="Library" URL="/&lt;vilib&gt;/addons/control/pid/NI_PID__prctrl compat.lvlib"/>
