@@ -497,6 +497,7 @@
 			<Item Name="Combine Data Array.vi" Type="VI" URL="../Sub-VIs/Combine Data Array.vi"/>
 		</Item>
 		<Item Name="Tests" Type="Folder">
+			<Item Name="Dynamic MFC Test.vi" Type="VI" URL="../Tests/Dynamic MFC Test.vi"/>
 			<Item Name="Test Database Tools.vi" Type="VI" URL="../Tests/Test Database Tools.vi"/>
 			<Item Name="Test Measurement Class.vi" Type="VI" URL="../Tests/Test Measurement Class.vi"/>
 			<Item Name="Test MFC Step Response.vi" Type="VI" URL="../Tests/Test MFC Step Response.vi"/>
@@ -508,7 +509,6 @@
 			<Item Name="Test Sound Measurement.vi" Type="VI" URL="../Tests/Test Sound Measurement.vi"/>
 			<Item Name="Test Z Axis Motor.vi" Type="VI" URL="../Tests/Test Z Axis Motor.vi"/>
 		</Item>
-		<Item Name="Dynamic MFC Test.vi" Type="VI" URL="../Tests/Dynamic MFC Test.vi"/>
 		<Item Name="OOP_test_main.vi" Type="VI" URL="../OOP_test_main.vi"/>
 		<Item Name="SVM_op_range_exp.vi" Type="VI" URL="../SVM_op_range_exp.vi"/>
 		<Item Name="test_rig_main.vi" Type="VI" URL="../test_rig_main.vi"/>
